@@ -105,15 +105,6 @@ Many beginners confuse CTFs with real pentesting. Here's a simple comparison:
 - What's the hint? (Always read twice!)
 - What file is provided? (Download and analyze)
 
-### **2️⃣ SET UP YOUR WORKSPACE**
-```bash
-# Create a folder for the challenge
-mkdir CTF-ChallengeName
-cd CTF-ChallengeName
-
-# Take notes immediately
-touch notes.md
-# Write down: Challenge name, category, hints, date
 
 #Useful resources
 CTFtime.org - Find upcoming CTFs
